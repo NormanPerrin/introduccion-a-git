@@ -63,7 +63,7 @@ Por suerte contamos con una herramienta que hace todo lo que dije y mucho más.
 
 > **git** es un sistema de control de versiones, distribuido.
 
-![confusednick](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwji4J2e-aHlAhUNP60KHfFkAzEQjRx6BAgBEAQ&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fconfused-nick-young&psig=AOvVaw3yXOs5-IApgU4zVzBUR8yh&ust=1571355396170615)
+![confusednick](https://i.kym-cdn.com/entries/icons/original/000/018/489/nick-young-confused-face-300x256-nqlyaa.jpg)
 
 Vamo de a partes.
 
