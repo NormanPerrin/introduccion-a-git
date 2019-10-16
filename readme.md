@@ -63,7 +63,7 @@ Por suerte contamos con una herramienta que hace todo lo que dije y mucho más.
 
 > **git** es un sistema de control de versiones, distribuido.
 
-![](https://giphy.com/gifs/confused-nick-young-lkdH8FmImcGoylv3t3/links)
+![](https://gph.is/g/ZY6PG14)
 
 Vamo de a partes.
 
