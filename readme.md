@@ -63,7 +63,7 @@ Por suerte contamos con una herramienta que hace todo lo que dije y mucho más.
 
 > **git** es un sistema de control de versiones, distribuido.
 
-\*insertar meme de que algo no se entiende\*
+![](https://giphy.com/gifs/confused-nick-young-lkdH8FmImcGoylv3t3/links)
 
 Vamo de a partes.
 
